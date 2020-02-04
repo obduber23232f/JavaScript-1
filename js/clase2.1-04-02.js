@@ -1,4 +1,4 @@
-console.log("EJERCICIO 2")
+console.log("EJERCICIO 2");
 var pantalon1,pantalon2,pantalon3,tipo,cantidad,precio,nombre,total,clase;
 nombre = "obduber";
 cantidad = Math.random()*10;
