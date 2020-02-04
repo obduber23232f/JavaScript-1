@@ -1,3 +1,4 @@
+console.log("EJERCICIO 1")
 var nombre,sueldo_base,year,numeros_cursos,aumento,total1;
 numeros_cursos = Math.random()*5;
 sueldo_base = 100;
