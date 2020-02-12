@@ -10,7 +10,7 @@ function leer_entero(){
 	else{
 		let bien="bien";
 		acum_nota = acum_nota +nota;
-		console,log(bien);
+		console.log(bien);
 	}
 }
 
