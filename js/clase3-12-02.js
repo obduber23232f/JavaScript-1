@@ -1,6 +1,7 @@
 console.log("EJERCICIO 1 DE CLASE 12/02/20");
+console.log("-----------------------------------------------");
 
-for(i = 0; i <= 4;i++){
+for(i = 0; i <= 3;i++){
 var pantalon1,pantalon2,pantalon3,tipo,cantidad,precio,nombre,total,clase;
 nombre = "obduber";
 cantidad = Math.random()*10;
@@ -37,4 +38,5 @@ switch(tipo){
 console.log("El nombre del cliente es :" +nombre);
 console.log("El tipo de pantalon es :" + clase);
 console.log("El precio del pantalon es:" + total+ "Bs");
+console.log("-----------------------------------------------");
 }
